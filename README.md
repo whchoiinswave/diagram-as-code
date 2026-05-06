@@ -21,3 +21,13 @@ The production build is generated in `dist/`.
 ```sh
 npm run build
 ```
+
+## Installable Tarball
+
+Create an npm-installable tarball in `dist/`.
+
+```sh
+npm run pack:dist
+npm install -g ./dist/diagram-as-code-0.1.0-dist.tgz
+diagram-as-code --port 4173
+```

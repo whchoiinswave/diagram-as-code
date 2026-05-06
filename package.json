@@ -12,7 +12,8 @@
     "typecheck": "tsc -b",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "pack:dist": "npm run build && node scripts/pack-dist.mjs"
   },
   "dependencies": {
     "@codemirror/lang-markdown": "^6.3.4",

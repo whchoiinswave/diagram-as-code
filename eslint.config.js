@@ -7,4 +7,14 @@ export default tseslint.config(
   {
     ignores: ['dist'],
   },
+  {
+    files: ['bin/**/*.js', 'scripts/**/*.mjs', 'eslint.config.js'],
+    languageOptions: {
+      globals: {
+        console: 'readonly',
+        process: 'readonly',
+        URL: 'readonly',
+      },
+    },
+  },
 );

@@ -52,6 +52,7 @@
 - [Selection Editor Separation 요청](./요청/2026-05-06-016-selection-editor-separation.md)
 - [Edge Selection Hit Area 요청](./요청/2026-05-06-017-edge-selection-hit-area.md)
 - [Live Selection Editing 요청](./요청/2026-05-06-018-live-selection-editing.md)
+- [Npm Installable Dist Tgz 요청](./요청/2026-05-06-019-npm-installable-dist-tgz.md)
 - [초기 실행 계획](./할일/2026-05-05-001-초기-실행계획.md)
 - [MVP 작업 계획](./할일/2026-05-05-002-MVP-작업계획.md)
 - [문서 체계 구현](./구현/2026-05-05-001-aidocs-문서체계.md)
@@ -72,3 +73,4 @@
 - [Selection Editor Separation](./구현/2026-05-06-016-selection-editor-separation.md)
 - [Edge Selection Hit Area](./구현/2026-05-06-017-edge-selection-hit-area.md)
 - [Live Selection Editing](./구현/2026-05-06-018-live-selection-editing.md)
+- [Npm Installable Dist Tgz](./구현/2026-05-06-019-npm-installable-dist-tgz.md)
